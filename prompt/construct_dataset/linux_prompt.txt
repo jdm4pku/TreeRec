@@ -1,0 +1,16 @@
+### Role
+You are a Linux system administrator / DevOps engineer preparing to install and configure a server environment.
+
+### Input
+• Package group name: {name}
+• Package group description: {description}
+
+### Task
+Write ONE realistic user requirement statement (1–2 sentences, 25–50 words) that would make this package group the ideal solution.
+
+❌ Do NOT mention the package group name.  
+✅ Clearly describe the usage scenario, needed capability, domain, constraints, or compatibility requirements.  
+✅ Use a first‑person, professional tone (“I need…”, “Our team wants…”).
+
+### Output format
+<requirement>

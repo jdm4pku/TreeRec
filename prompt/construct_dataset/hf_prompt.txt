@@ -1,0 +1,14 @@
+### Role
+You are a software engineer searching an AI model marketplace.
+
+### Task
+Given:
+• Model name: {name}
+• Model description: {description}
+
+Write ONE realistic user requirement statement (1–2 sentences, 25–50 words) that would make this model the perfect match.  
+❌ Do NOT mention the model name.  
+✅ Clearly describe the problem context, desired capability, domain, constraints, or target data.  
+✅ Use plain, professional English in first‑person (“I need…”, “Our team wants…”).
+
+### Output
